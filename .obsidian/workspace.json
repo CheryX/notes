@@ -8,43 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f190fa842a9aa52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b7cc6d9fb519e58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Romantyzm/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a3cea4055235cfbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Romantyzm/1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Romantyzm/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Romantyzm/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Romantyzm/1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,9 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3cea4055235cfbd",
+  "active": "789867fef7e21841",
   "lastOpenFiles": [
     "Romantyzm/README.md",
+    "Romantyzm/1.md",
     "Romantyzm.md",
     "test.md",
     "README.md"

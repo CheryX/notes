@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Romantyzm/README.md",
-                "mode": "preview",
+                "file": "Romantyzm/2. Poezja romantyczna wobec klasycznej.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Romantyzm/README.md",
+                "file": "Romantyzm/2. Poezja romantyczna wobec klasycznej.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Romantyzm/README.md",
+                "file": "Romantyzm/2. Poezja romantyczna wobec klasycznej.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Romantyzm/README.md"
+                "file": "Romantyzm/2. Poezja romantyczna wobec klasycznej.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "a3cea4055235cfbd",
   "lastOpenFiles": [
-    "README.md",
-    "Romantyzm/README.md",
     "Romantyzm/1. Romantyzm, czyli inna nowoczesność.md",
+    "Romantyzm/2. Poezja romantyczna wobec klasycznej.md",
+    "Romantyzm/README.md",
+    "README.md",
     "Romantyzm.md",
     "test.md"
   ]

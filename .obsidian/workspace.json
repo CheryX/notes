@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1743fa8221195007",
+        "id": "d7e9a9a0e1ff09bb",
         "type": "tabs",
         "children": [
           {
-            "id": "a3cea4055235cfbd",
+            "id": "57b037056047586b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Romantyzm/2. Poezja romantyczna wobec klasycznej.md",
+                "file": "Romantyzm/1. Romantyzm, czyli inna nowoczesność.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Romantyzm/2. Poezja romantyczna wobec klasycznej.md",
+                "file": "Romantyzm/1. Romantyzm, czyli inna nowoczesność.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Romantyzm/2. Poezja romantyczna wobec klasycznej.md",
+                "file": "Romantyzm/1. Romantyzm, czyli inna nowoczesność.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Romantyzm/2. Poezja romantyczna wobec klasycznej.md"
+                "file": "Romantyzm/1. Romantyzm, czyli inna nowoczesność.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3cea4055235cfbd",
+  "active": "57b037056047586b",
   "lastOpenFiles": [
+    "README.md",
+    "Romantyzm/README.md",
     "Romantyzm/1. Romantyzm, czyli inna nowoczesność.md",
     "Romantyzm/2. Poezja romantyczna wobec klasycznej.md",
-    "Romantyzm/README.md",
-    "README.md",
+    "Romantyzm/6. Tajemniczy buntownik - Giaur Byrona.md",
     "Romantyzm.md",
     "test.md"
   ]
